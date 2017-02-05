@@ -1,1 +1,2 @@
 Text file created by the first user1
+Line added by the second user.
